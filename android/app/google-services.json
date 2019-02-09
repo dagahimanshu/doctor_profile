@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "668616801337",
+    "firebase_url": "https://imagefirebase-51761.firebaseio.com",
+    "project_id": "imagefirebase-51761",
+    "storage_bucket": "imagefirebase-51761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668616801337:android:a88a0f2783aa1d8f",
+        "android_client_info": {
+          "package_name": "com.himanshu.doctorprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668616801337-44bqf29ah245a0o1o2vp9flqnji0ol0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himanshu.doctorprofile",
+            "certificate_hash": "3c7a8f7d5dd325a910440b738f6c3e4948e905c5"
+          }
+        },
+        {
+          "client_id": "668616801337-660dtmlb1u7lmfdbjn1p51heqi5ild8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSDzIQrFkpc4CwKN6pS26k4j1LsuDojk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668616801337-660dtmlb1u7lmfdbjn1p51heqi5ild8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
